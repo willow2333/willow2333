@@ -7,7 +7,7 @@ Here is willow, as a bioinformatics engineer ,i prefer to analyze biological dat
 
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willow2333)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willow2333&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
