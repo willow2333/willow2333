@@ -1,9 +1,9 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Here+is+willow+😄🎉🍾🎈)
 
 Here is willow, as a bioinformatics engineer ,i prefer to analyze biological data. I'm skilled at TGS, NGS and forensic sequencing data analysis.
-* NGS bioinformatics analysis;
-* Nanopore sequencing data analysis;
-* Research on Detection Algorithm of Forensic Genetic Markers Based on Sequencing Data
+* 📖  NGS bioinformatics analysis 🙋;
+* 📉  Nanopore sequencing data analysis 🌞;
+* 🍃  Research on Detection Algorithm of Forensic Genetic Markers Based on Sequencing Data 🌻;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow2333)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willow2333)
