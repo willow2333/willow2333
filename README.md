@@ -1,9 +1,15 @@
-## Hi there 👋
-Here is willow, as a bioinformatics engineer ,i prefer to analyze biological data. I'm skilled at TGS, NGS and forensic sequencing data analysis.
+## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Here+is+willow+😄🎉🍾🎈)
 
+Here is willow, as a bioinformatics engineer ,i prefer to analyze biological data. I'm skilled at TGS, NGS and forensic sequencing data analysis.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow2333)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willow2333)
+
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willow2333)
+
+
 <!--
 **willow2333/willow2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
