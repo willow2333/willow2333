@@ -1,6 +1,6 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Here+is+willow+😄🎉🍾🎈)
 
-Here is willow, as a bioinformatics engineer ,i prefer to analyze biological data. I'm skilled at TGS, NGS and forensic sequencing data analysis.
+Here is willow, as a bioinformatics engineer, I prefer to analyze biological data. I'm skilled at TGS, NGS & forensic sequencing data analysis.
 * 📖  NGS bioinformatics analysis 🙋;
 * 📉  Nanopore sequencing data analysis 🌞;
 * 🍃  Research on Detection Algorithm of Forensic Genetic Markers Based on Sequencing Data 🌻;
